@@ -1,0 +1,18 @@
+{
+  "name": "v11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ext .vue ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.28.0",
+    "@typescript-eslint/parser": "^5.28.0",
+    "@vue/eslint-config-typescript": "^11.0.0",
+    "typescript": "^4.7.4"
+  }
+}
