@@ -1,0 +1,7 @@
+{
+  "compileOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "jsx": "preserve"
+  }
+}
